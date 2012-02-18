@@ -1,16 +1,16 @@
 {
-  "author": "Thuzi LLC <pshrestha@thuzi.com> (https://github.com/Thuzi)",
-  "name": "fb",
+  "author": "Galuszka Kamil <galuszkak@gmail.com> (https://github.com/galuszkak)",
+  "name": "fb-new",
   "description": "NodeJS Library for Facebook",
-  "keywords": ["facebook", "graph"],
+  "keywords": ["facebook", "graph", "api", "sdk"],
   "version": "0.0.1",
   "homepage": "https://github.com/Thuzi/facebook-node-sdk",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Thuzi/facebook-node-sdk.git"
+    "url": "git://github.com/galuszkak/facebook-node-sdk.git"
   },
   "engines": {
-    "node": "~0.6.9"
+        "node": ">=0.4.7 < 7.0.0"
   },
   "dependencies": {
     "request": "2.9.x"
