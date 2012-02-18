@@ -273,11 +273,6 @@ FB.api('', 'post', {
         console.log('Post Id: ' + res0.id);
     }
 });
-```
-
-## Legacy REST Api
-
-__Although Legacy REST Api is supported by facebook-node-sdk, it is highly discouraged to be used, as Facebook is in the process of deprecating the Legacy REST Api.__
 
 ### Get
 
